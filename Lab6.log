@@ -1,0 +1,91 @@
+Command: /home/users7/rk366163/526LSP24_raj_kumar/Lab6/./simv -l Lab6.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Mar 17 17:47 2024
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+                   0 count = 00000000, clock = 0, reset = 0, load = 0, enable = 0, data = 00000000
+                  10 count = 00000000, clock = 1, reset = 0, load = 0, enable = 0, data = 00000000
+                  20 count = 00000000, clock = 0, reset = 0, load = 0, enable = 0, data = 00000000
+                  30 count = 00000000, clock = 1, reset = 0, load = 0, enable = 0, data = 00000000
+                  40 count = 00000000, clock = 0, reset = 0, load = 0, enable = 0, data = 00000000
+                  50 count = 00000000, clock = 1, reset = 0, load = 0, enable = 0, data = 00000000
+                  60 count = 00000000, clock = 0, reset = 0, load = 0, enable = 0, data = 00000000
+                  70 count = 00000000, clock = 1, reset = 0, load = 0, enable = 0, data = 00000000
+                  80 count = 00000000, clock = 0, reset = 1, load = 0, enable = 1, data = 00000000
+                  90 count = 00000001, clock = 1, reset = 1, load = 0, enable = 1, data = 00000000
+                 100 count = 00000001, clock = 0, reset = 1, load = 0, enable = 1, data = 00000000
+                 110 count = 00000010, clock = 1, reset = 1, load = 0, enable = 1, data = 00000000
+                 120 count = 00000010, clock = 0, reset = 1, load = 0, enable = 1, data = 00000000
+                 130 count = 00000011, clock = 1, reset = 1, load = 0, enable = 1, data = 00000000
+                 140 count = 00000011, clock = 0, reset = 1, load = 0, enable = 1, data = 00000000
+                 150 count = 00000100, clock = 1, reset = 1, load = 0, enable = 1, data = 00000000
+                 160 count = 00000100, clock = 0, reset = 1, load = 0, enable = 1, data = 00000000
+                 170 count = 00000101, clock = 1, reset = 1, load = 0, enable = 1, data = 00000000
+                 180 count = 00000101, clock = 0, reset = 1, load = 0, enable = 1, data = 00000000
+                 190 count = 00000110, clock = 1, reset = 1, load = 0, enable = 1, data = 00000000
+                 200 count = 00000110, clock = 0, reset = 1, load = 0, enable = 1, data = 00000000
+                 210 count = 00000111, clock = 1, reset = 1, load = 0, enable = 1, data = 00000000
+                 220 count = 00000111, clock = 0, reset = 1, load = 0, enable = 1, data = 00000000
+                 230 count = 00001000, clock = 1, reset = 1, load = 0, enable = 1, data = 00000000
+                 240 count = 00001000, clock = 0, reset = 1, load = 1, enable = 0, data = 11001100
+                 250 count = 00001000, clock = 1, reset = 1, load = 1, enable = 0, data = 11001100
+                 260 count = 00001000, clock = 0, reset = 1, load = 1, enable = 0, data = 11001100
+                 270 count = 00001000, clock = 1, reset = 1, load = 1, enable = 0, data = 11001100
+                 280 count = 00001000, clock = 0, reset = 1, load = 1, enable = 0, data = 11001100
+                 290 count = 00001000, clock = 1, reset = 1, load = 1, enable = 0, data = 11001100
+                 300 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 310 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 320 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 330 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 340 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 350 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 360 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 370 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 380 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 390 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 400 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 410 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 420 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 430 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 440 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 450 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 460 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 470 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 480 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 490 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 500 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 510 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 520 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 530 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 540 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 550 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 560 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 570 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 580 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 590 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 600 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 610 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 620 count = 00001000, clock = 0, reset = 1, load = 0, enable = 0, data = 11001100
+                 630 count = 00001000, clock = 1, reset = 1, load = 0, enable = 0, data = 11001100
+                 640 count = 00000000, clock = 0, reset = 0, load = 0, enable = 0, data = 11001100
+                 650 count = 00000000, clock = 1, reset = 0, load = 0, enable = 0, data = 11001100
+                 660 count = 00000000, clock = 0, reset = 0, load = 1, enable = 1, data = 11001100
+                 670 count = 00000000, clock = 1, reset = 0, load = 1, enable = 1, data = 11001100
+                 680 count = 00000000, clock = 0, reset = 0, load = 1, enable = 1, data = 11001100
+                 690 count = 00000000, clock = 1, reset = 0, load = 1, enable = 1, data = 11001100
+                 700 count = 00000000, clock = 0, reset = 0, load = 1, enable = 1, data = 11001100
+                 710 count = 00000000, clock = 1, reset = 0, load = 1, enable = 1, data = 11001100
+                 720 count = 00000000, clock = 0, reset = 0, load = 1, enable = 1, data = 11001100
+                 730 count = 00000000, clock = 1, reset = 0, load = 1, enable = 1, data = 11001100
+                 740 count = 00000000, clock = 0, reset = 1, load = 1, enable = 1, data = 11001100
+                 750 count = 11001100, clock = 1, reset = 1, load = 1, enable = 1, data = 11001100
+                 760 count = 11001100, clock = 0, reset = 1, load = 1, enable = 1, data = 11001100
+                 770 count = 11001100, clock = 1, reset = 1, load = 1, enable = 1, data = 11001100
+                 780 count = 11001100, clock = 0, reset = 1, load = 1, enable = 1, data = 11001100
+                 790 count = 11001100, clock = 1, reset = 1, load = 1, enable = 1, data = 11001100
+$finish called from file "top_tb.v", line 31.
+$finish at simulation time                  800
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 800 ns
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Sun Mar 17 17:47:06 2024
